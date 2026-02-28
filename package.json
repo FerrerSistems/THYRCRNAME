@@ -1,0 +1,17 @@
+{
+  "name": "tse-nombres-api",
+  "version": "1.0.0",
+  "description": "API consulta TSE Costa Rica por nombre y apellidos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "express": "4.18.2",
+    "axios": "1.6.7",
+    "cheerio": "1.0.0"
+  }
+}
